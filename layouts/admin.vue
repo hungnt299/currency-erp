@@ -7,7 +7,7 @@
                     <a class="gradient-header justify-center gap-4 flex items-center tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-lg md:text-[28px]"
                         href="/">
                             <div
-                                class="text-lg relative z-50 font-bold tracking-widest text-gray-900 rounded-lg focus:outline-none focus:shadow-outline">krisngo</div>
+                                class="text-lg relative z-50 font-bold tracking-widest text-gray-900 rounded-lg focus:outline-none focus:shadow-outline">currency</div>
                             <svg class="h-11 z-40 absolute -top-2 -left-3" viewBox="0 0 79 79" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path

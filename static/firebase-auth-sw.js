@@ -6,7 +6,7 @@ importScripts(
 importScripts(
   'https://www.gstatic.com/firebasejs/9.15.0/firebase-auth-compat.js'
 )
-firebase.initializeApp({"apiKey":"AIzaSyAUzgojY36GnKirsFlOZV7SjQ07g-ItmyY","authDomain":"hungnt-5ee57.firebaseapp.com","projectId":"hungnt-5ee57","storageBucket":"hungnt-5ee57.appspot.com","messagingSenderId":"699220880780","appId":"1:699220880780:web:cc7af2ab92f83dfa57baa9","measurementId":"G-DK2JJVM932"})
+firebase.initializeApp({"apiKey":"AIzaSyDTDxAMMzVt57JuMdOcXV4vUJJkqVTxHHI","authDomain":"currency-erp.firebaseapp.com","projectId":"currency-erp","storageBucket":"currency-erp.appspot.com","messagingSenderId":"617596609405","appId":"1:617596609405:web:1dec3a75b45321d6e06214"})
 
 // Initialize authService
 const authService = firebase.auth()

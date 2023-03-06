@@ -6,7 +6,7 @@
                 <div class="flex flex-row items-center justify-between py-6">
                     <div class="relative md:mt-8">
                         <a href="#"
-                            class="text-lg relative z-50 font-bold tracking-widest text-gray-900 rounded-lg focus:outline-none focus:shadow-outline">krisngo</a>
+                            class="text-lg relative z-50 font-bold tracking-widest text-gray-900 rounded-lg focus:outline-none focus:shadow-outline">currency</a>
                         <svg class="h-11 z-40 absolute -top-2 -left-3" viewBox="0 0 79 79" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -53,7 +53,7 @@
                         <span class="text-yellow-500">Studying</span> Online is now much easier
                     </h1>
                     <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="leading-normal text-2xl mb-8">
-                        krisngo is an interesting platform that will teach you in more an interactive way</p>
+                        currency is an interesting platform that will teach you in more an interactive way</p>
                     <div data-aos="fade-up" data-aos-once="true" data-aos-delay="700"
                         class="w-full md:flex items-center justify-center lg:justify-start md:space-x-5">
                         <button
@@ -137,7 +137,7 @@
             <div class="max-w-lg mx-auto">
                 <div class="flex py-12 justify-center text-white items-center px-20 sm:px-36">
                     <div class="relative">
-                        <h1 class="font-bold text-xl pr-5 relative z-50">krisngo</h1>
+                        <h1 class="font-bold text-xl pr-5 relative z-50">currency</h1>
                         <svg class="w-11 h-11 absolute -top-2 -left-3 z-40" viewBox="0 0 79 79" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path

@@ -50,10 +50,10 @@
                     class="flex flex-col w-full lg:w-6/12 justify-center lg:pt-24 items-start text-center lg:text-left mb-5 md:mb-0">
                     <h1 data-aos="fade-right" data-aos-once="true"
                         class="my-4 text-5xl font-bold leading-tight text-darken">
-                        <span class="text-yellow-500">Studying</span> Online is now much easier
+                        <span class="text-yellow-500">Transaction</span> Currency is now much easier
                     </h1>
                     <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="leading-normal text-2xl mb-8">
-                        currency is an interesting platform that will teach you in more an interactive way</p>
+                        Currency trading can be a lucrative investment opportunity.</p>
                     <div data-aos="fade-up" data-aos-once="true" data-aos-delay="700"
                         class="w-full md:flex items-center justify-center lg:justify-start md:space-x-5">
                         <button
@@ -145,7 +145,7 @@
                                 stroke="#26C1F2" stroke-width="2" />
                         </svg>
                     </div>
-                    <span class="border-l border-gray-500 text-sm pl-5 py-2 font-semibold">Virtual Class for Zoom</span>
+                    <span class="border-l border-gray-500 text-sm pl-5 py-2 font-semibold">Currency for Everyone</span>
                 </div>
                 <div class="flex items-center text-gray-400 text-sm justify-center">
                     <a href="" class="pr-3">Careers</a>
